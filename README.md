@@ -1,16 +1,23 @@
 # DiscordLab
-Chat font changing software based on BetterDiscord
 
-feedback on https://discord.gg/hT45u2cCm8
+<img width="2287" height="1399" alt="屏幕截图 2026-04-08 221602" src="https://github.com/user-attachments/assets/3ffa6e0d-6451-41db-9437-7d419d43a3f2" />
 
-#Prerequisites
+> A BetterDiscord plugin for real-time font, color, and layout customization.
 
-Requirement: Ensure BetterDiscord is installed on your PC.
+## Features
+- Real-time preview — changes apply instantly without restarting Discord
+- Font selector with system font support
+- HLS color control with lightness slider
+- Adjustable font size and line height
+- Preset color swatches
 
-Activation:
+## Prerequisites
+- [BetterDiscord](https://betterdiscord.app/) installed
 
-Run this program and click "Apply/Sync".
+## Installation
+1. Download `Dhik0_Stable_Style.plugin.js`
+2. Place it in your BetterDiscord plugins folder
+3. Enable it in Settings → Plugins
 
-Open Discord, go to Settings -> Themes.
-
-Enable the Dhik0_Stable_Style theme.
+## Feedback
+Join the [Discord server](https://discord.gg/hT45u2cCm8)
