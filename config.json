@@ -1,0 +1,21 @@
+{
+    "font": "Georgia",
+    "size": 16.0,
+    "height": 1.65,
+    "color": "#ff82b7",
+    "bg": "transparent",
+    "language": "zh-CN",
+    "ui_version": "BETA-1.0",
+    "ui_app_title_zh-CN": "Discord 文本更改工具 vBETA-1.0",
+    "ui_app_title_en-US": "Discord Text Lab vBETA-1.0",
+    "ui_panel_title_zh-CN": "⚙️ 视觉调色 vBETA-1.0",
+    "ui_panel_title_en-US": "⚙️ Visual Tuning vBETA-1.0",
+    "ui_btn_text_zh-CN": "🚀 应用并同步",
+    "ui_btn_text_en-US": "🚀 Apply & Sync",
+    "ui_preview_text_zh-CN": "文本预览: \n1. 这是你自定义的中文描述。\n2. 可以在 JSON 里随意修改这些文字。",
+    "ui_preview_text_en-US": "Text Preview: \n1. This is your custom English description.\n2. Feel free to edit these lines in JSON.\n",
+    "ui_preview_title_zh-CN": "Dhik0 [模式]",
+    "ui_preview_title_en-US": "Dev by Dhik0",
+    "ui_success_msg_zh-CN": "✅ 字体与文本已成功应用！",
+    "ui_success_msg_en-US": "✅ Applied successfully!"
+}
