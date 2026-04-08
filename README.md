@@ -1,6 +1,8 @@
 # DiscordLab
 Chat font changing software based on BetterDiscord
 
+feedback on https://discord.gg/hT45u2cCm8
+
 #Prerequisites
 
 Requirement: Ensure BetterDiscord is installed on your PC.
