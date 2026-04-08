@@ -15,9 +15,9 @@
 - [BetterDiscord](https://betterdiscord.app/) installed
 
 ## Installation
-1. DiscordLab can auto make `Dhik0_Stable_Style.plugin.js`
-2. Place it in your BetterDiscord plugins folder
-3. Enable it in Settings → Plugins
+1. Download the latest `DiscordLab_BETA_1.0.exe` from the [Releases](https://github.com/Dhik0/DiscordLab/releases) page.
+2. Double-click the EXE to run it — it will **automatically** generate `Dhik0_Stable_Style.plugin.js` and place it directly into your BetterDiscord plugins folder.
+3. Open Discord → **Settings → Plugins** → find **Dhik0_Stable_Style** and enable it.
 
 ## Feedback
 Join the [Discord server](https://discord.gg/hT45u2cCm8)
